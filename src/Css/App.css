@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.Section {
+  position: relative;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(7px + 2vmin);
+  color: white;
+  padding: 20px;
+}
+
+

@@ -1,0 +1,62 @@
+{
+    "title": "Hello, I'm Yaser!",
+    "subtitle": "Full Stack Dev | Open-Source Enthusiast",
+    "links": {
+        "github": "https://github.com/ehsani2016",
+        "stackowerflow": "https://stackoverflow.com/story/yaserehsani",
+        "linkedin": "https://www.linkedin.com/in/yaser-ehsani-7901aab8/"
+    },
+    "Sections": [
+        {
+            "title": "About",
+            "subtitle":"I AM A PROGRAMMER!",
+            "item": [
+                {
+                    "type": "p",
+                    "content": "A programmer works according to the specifications provided by a systems analyst or senior programmer. After completing a program design, a programmer converts the design into a series of codes or instructions that the computer can run and execute, making use of a specific programming language and required platforms."
+                }
+            ]
+        },
+        {
+            "title": "Skills",
+            "item": [
+                {
+                    "type": "card",
+                    "content": {
+                        "image":"images/skills/react.png",
+                        "title":"React Js"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image":"images/skills/aspmvc.png",
+                        "title":"ASP.NET MVC"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image":"images/skills/html.png",
+                        "title":"HTML"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image":"images/skills/css.png",
+                        "title":"CSS"
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image":"images/skills/javascript.png",
+                        "title":"Javascript"
+                    }
+                }
+
+            ]
+        }
+    ]
+}
