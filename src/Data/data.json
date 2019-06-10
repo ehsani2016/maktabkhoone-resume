@@ -23,35 +23,35 @@
                 {
                     "type": "card",
                     "content": {
-                        "image":"images/skills/react.png",
+                        "image":"Images/Skills/react.png",
                         "title":"React Js"
                     }
                 },
                 {
                     "type": "card",
                     "content": {
-                        "image":"images/skills/aspmvc.png",
+                        "image":"Images/Skills/aspmvc.png",
                         "title":"ASP.NET MVC"
                     }
                 },
                 {
                     "type": "card",
                     "content": {
-                        "image":"images/skills/html.png",
+                        "image":"Images/Skills/html.png",
                         "title":"HTML"
                     }
                 },
                 {
                     "type": "card",
                     "content": {
-                        "image":"images/skills/css.png",
+                        "image":"Images/Skills/css.png",
                         "title":"CSS"
                     }
                 },
                 {
                     "type": "card",
                     "content": {
-                        "image":"images/skills/javascript.png",
+                        "image":"Images/Skills/javascript.png",
                         "title":"Javascript"
                     }
                 }
